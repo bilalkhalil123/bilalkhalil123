@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋, I'm Bilal
 
-<!--
-**bilalkhalil123/bilalkhalil123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer | CS Student**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
+- 🎓 CS student at FAST NUCES, Islamabad
+- 🤖 Passionate about AI, ML & Full-Stack Development
+- 📫 Reach me at: bk418095@gmail.com
+
+---
+
+### 🛠 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=python,js,react,docker,kubernetes,aws,git,mongodb,cpp)](https://skillicons.dev)
+---
+
+---
+
+### 🚀 Featured Projects
+
+- 🏠 **[PropPal]** — Multi-agent LLM platform with specialized agents (Router, Property Listing, Builder Discovery, Booking) to automate real estate workflows
+- 🏎️ **[AI Racing Driver for TORCS](https://github.com/bilalkhalil123/AI_Racing_Bot)** — AI-controlled driving agent using neural networks
+- ⚙️ **[MLOps Pipeline](https://github.com/bilalkhalil123/MLOPS_Final_Project)** — End-to-end ML pipeline with live API ingestion, drift detection, versioned retraining, AWS EC2 deployment, Prometheus/Grafana monitoring, Slack alerting & GitHub Actions CI/CD
+- 💰 **[Personal Budget Tracker](https://github.com/bilalkhalil123/Budget_Tracker)** — Full-stack MERN app with JWT auth, expense categorization, Ant Design Charts, avatar uploads & paginated REST API
+
+
+
+---
+
+### 🔗 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](linkedin.com/in/muhammad-bilal-174745357)
+[![Email](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:bk418095@gmail.com)
