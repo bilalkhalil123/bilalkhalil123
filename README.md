@@ -5,9 +5,9 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 CS student at FAST NUCES, Islamabad
-- 🤖 Passionate about AI, ML & Full-Stack Development
-- 📫 Reach me at: bk418095@gmail.com
+- Full-Stack Developer specializing in React, Next.js, TypeScript, Node.js, Express.js, FastAPI, and MongoDB. Experienced in developing secure, scalable web applications, REST APIs, and AI-driven solutions.
+- Strong foundation in cloud, CI/CD, and modern software engineering practices
+- Reach me at: bk418095@gmail.com
 
 ---
 
